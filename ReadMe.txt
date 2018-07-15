@@ -1,0 +1,3 @@
+Website Analytics :-
+
+The other presentation file is one of my very interesting academic project. I got to work on an E-commerce website's Data set using Google Analytics. An in depth Data Analysis was done to predict number of web page visitors for future. In the process, it was found that there is a flaw in business model. Therefore, I came up with a suggestion to reduce Bounce rate and %Exit rate to increase revenue through number of Web page visits. This was Achieved using J48 Decion Tree algorithm.
